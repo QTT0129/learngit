@@ -1,1 +1,2 @@
-git是一款版本控制工具
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
